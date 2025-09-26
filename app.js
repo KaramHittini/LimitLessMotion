@@ -35,8 +35,8 @@ const sampleVideo  = "Bi.mp4";
 const EXERCISES = {
   Arm: [
     { name: "Seated Bicep Curls", desc: "Light dumbbells or band. Elbows tucked, slow curl.", more: "Aim for controlled reps; maintain tall posture and avoid shrugging.", more2: "Start with 1–2 sets of 8–10 slow reps. Rest 45–60s. Progress weekly by small increases in reps or range.", video: sampleVideo, poster: samplePoster },
-    { name: "Resistance Band Row (Seated)", desc: "Anchor low; squeeze shoulder blades.", more: "Keep ribs down, neck long; pause 1–2s in end range.", more2: "2 sets of 8–12 reps; smooth return.", video: sampleVideo, poster: samplePoster },
-    { name: "Wrist Flex & Extend", desc: "Gentle range of motion; avoid pain.", more: "Support forearm on armrest/pillow for comfort.", more2: "30–45s of gentle movement, 2–3 rounds.", video: sampleVideo, poster: samplePoster },
+    { name: "Resistance Band Row (Seated)", desc: "Anchor low; squeeze shoulder blades.", more: "Keep ribs down, neck long; pause 1–2s in end range.", more2: "2 sets of 8–12 reps; smooth return.", video: "1.mp4", poster: samplePoster },
+    { name: "Wrist Flex & Extend", desc: "Gentle range of motion; avoid pain.", more: "Support forearm on armrest/pillow for comfort.", more2: "30–45s of gentle movement, 2–3 rounds.", video: "2.mp4", poster: samplePoster },
     { name: "Overhead Press (Assisted)", desc: "Light load, pain-free range.", more: "Use minimal weight; stop with neck strain.", more2: "1–2 sets of 6–8 reps; exhale as you press.", video: sampleVideo, poster: samplePoster },
     { name: "Seated Lateral Raise", desc: "Raise arms to sides within comfort.", more: "Tiny range is fine; avoid shoulder hiking.", more2: "2 sets of 8–12 reps at slow tempo.", video: sampleVideo, poster: samplePoster },
     { name: "Hammer Curls (Seated)", desc: "Neutral grip curl.", more: "Keep elbows by sides; control lowering.", more2: "1–2 sets of 8–12 reps.", video: sampleVideo, poster: samplePoster },
